@@ -35,7 +35,9 @@ A default config file is given as an example in this repository.
 After changing the config file as required, the program can be started by using sudo fusuma.
 
 To enable it as an startup aplication in ubuntu, go to startup applications and then add a new startup program.
-Under the command textbox add just fusuma.
+Under the command textbox add just put ```fusuma```.
+
+
 
 
 
