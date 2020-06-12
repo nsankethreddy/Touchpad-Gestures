@@ -15,8 +15,8 @@ Credits:  [Kohei Yamada](https://github.com/iberianpig).
 
 - Install some necessary tools:
 
-```sudo apt-get install libinput-tools```
-```sudo apt-get install xdotool```
+```sudo apt install libinput-tools```  
+```sudo apt install xdotool```  
 
 
 - Ruby is required for this to work:
