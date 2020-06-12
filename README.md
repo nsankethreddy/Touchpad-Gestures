@@ -28,14 +28,13 @@ Credits:  [Kohei Yamada](https://github.com/iberianpig).
 ```sudo gem install fusuma  ```
 
 
-### The config file, by default is located in /var/lib/gems/2.7.0/gems/fusuma-1.10.1/lib/fusuma/config.yml
+##### The config file, by default is located in /var/lib/gems/2.7.0/gems/fusuma-1.10.1/lib/fusuma/config.yml
 
 A config file that mimics Windows-Trackpad features is given as an example in this repository as the ```config.yml``` file. (This file was written for UBUNTU 20.04)
 
 - After changing the config file as required, the program can be started by using ```sudo fusuma```.
 
-To enable it as an startup aplication in ubuntu, go to startup applications and then add a new startup program.
-Under the command textbox add just put ```fusuma```.
+To enable it as an startup aplication in ubuntu, add ```fusuma```as a new startup program in the Ubuntu startup applications
 
 --------------------------------------------------------------------------------------------------------------
   
