@@ -32,7 +32,7 @@ The config file, by default is located in /var/lib/gems/2.7.0/gems/fusuma-1.10.1
 
 A default config file is given as an example in this repository.
 
-After changing the config file as required, the program can be started by using sudo fusuma.
+After changing the config file as required, the program can be started by using sudo ```fusuma```.
 
 To enable it as an startup aplication in ubuntu, go to startup applications and then add a new startup program.
 Under the command textbox add just put ```fusuma```.
