@@ -1,11 +1,11 @@
-# Linux-Touchpad-Gestures
+Touchpad Gestures for Linux
+============================
+A better trackpad experience in Linux using fusuma. Supports multi-finger touch gestures, pinch in and out just like windows track pad.  
+  
+Credits:  [Kohei Yamada](https://github.com/iberianpig).  
 
-A better trackpad experience in Linux using fusuma. Supports multi-touch gestures, pinch in and out.
 
-https://github.com/iberianpig/fusuma/
-
-Steps
-------
+# Steps
 
 Check if user is a part of the current input group
 
@@ -30,12 +30,23 @@ Then install fusuma
 
 The config file, by default is located in /var/lib/gems/2.7.0/gems/fusuma-1.10.1/lib/fusuma/config.yml
 
-A default config file is given as an example in this repository.
+A config file that mimics Windows-Trackpad features is given as an example in this repository as the ```config.yml``` file. (This file was written for UBUNTU 20.04)
 
 After changing the config file as required, the program can be started by using ```sudo fusuma```.
 
 To enable it as an startup aplication in ubuntu, go to startup applications and then add a new startup program.
 Under the command textbox add just put ```fusuma```.
+
+  
+  
+  
+
+For more information refer to: https://github.com/iberianpig/fusuma/
+
+
+
+
+
 
 
 
