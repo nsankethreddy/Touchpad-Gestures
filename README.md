@@ -2,8 +2,6 @@ Touchpad Gestures for Linux
 ============================
 A better trackpad experience in Linux using fusuma. Supports multi-finger touch gestures, pinch in and out just like windows track pad.  
   
-Credits:  [Kohei Yamada](https://github.com/iberianpig).  
-
 
 ## Steps
 
@@ -43,6 +41,7 @@ For more information refer to: https://github.com/iberianpig/fusuma/
 
 
 
+Credits:  [Kohei Yamada](https://github.com/iberianpig).  
 
 
 
